@@ -1,0 +1,28 @@
+.calculator {
+  background-color: black;
+  height: 660px;
+  width: 600px;
+  margin-left: 400px;
+  margin-top: 80px;
+  border-radius: 10px;
+}
+
+#display {
+  width: 570px;
+  margin-left: 10px;
+  height: 100px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  font-size: 50px;
+}
+
+.tombol {
+  height: 100px;
+  width: 130px;
+  margin-left: 12px;
+  margin-top: 5px;
+  background-color: grey;
+  border-radius: 10px;
+  font-size: 50px;
+}
